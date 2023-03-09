@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="information">معلومات</string>
+    <string name="image">صورة</string>
+    <string name="uni">الجامعة</string>
+    <string name="app_name">نضال القططي - تطبيق -framents</string>
+    <string name="nedal_alqutati">نضال القططي</string>
+    <string name="subject_title">أندرويد 2</string>
+    <string name="university">جامعة الأقصى</string>
+    <string name="spicalizaion">الشبكات والهواتف النقالة</string>
+</resources>

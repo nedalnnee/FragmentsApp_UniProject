@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nedal AlQutati Fragments </string>
+    <string name="static_fragment_text" translatable="false">Welcome : static fragment Here</string>
+    <string name="information">Info</string>
+    <string name="image">Image</string>
+    <string name="uni">Uni</string>
+    <string name="nedal_alqutati">Nedal AlQutati</string>
+    <string name="student_id" translatable="false">1301195324</string>
+    <string name="subject_title">Android 2</string>
+    <string name="university">Al Aqsa University</string>
+    <string name="spicalizaion">Networks and Mobile apps Progamming</string>
+</resources>
