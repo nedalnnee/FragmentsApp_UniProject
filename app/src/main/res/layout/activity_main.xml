@@ -50,7 +50,7 @@
             android:layout_weight="1"
             android:text="@string/information"
             android:background="@color/accent"
-            android:textColor="@color/text"
+            android:textColor="@color/primary_text"
       />
 
         <androidx.appcompat.widget.AppCompatButton
@@ -61,7 +61,7 @@
             android:layout_margin="10dp"
             android:text="@string/image"
             android:background="@color/accent"
-            android:textColor="@color/text"
+            android:textColor="@color/primary_text"
            />
 
         <androidx.appcompat.widget.AppCompatButton
@@ -72,6 +72,16 @@
             android:layout_margin="10dp"
             android:text="@string/uni"
             android:background="@color/accent"
+            android:textColor="@color/primary_text"
+             />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/clearFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:text="@string/clear"
+            android:background="@color/danger"
             android:textColor="@color/text"
              />
     </LinearLayout>

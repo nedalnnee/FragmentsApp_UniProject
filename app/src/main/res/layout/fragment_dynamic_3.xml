@@ -17,7 +17,7 @@
             android:layout_margin="16dp"
             android:gravity="center"
             android:background="@color/primary"
-            android:textColor="@color/primary_text"
+            android:textColor="@color/text"
             android:text="@string/university" />
 
         <TextView
@@ -27,7 +27,7 @@
             android:layout_margin="16dp"
             android:gravity="center"
             android:background="@color/primary"
-            android:textColor="@color/primary_text"
+            android:textColor="@color/text"
             android:text="@string/spicalizaion" />
     </LinearLayout>
 

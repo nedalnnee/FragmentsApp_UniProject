@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:padding="10dp"
         android:background="@color/primary"
-        android:textColor="@color/primary_text"
+        android:textColor="@color/text"
         android:textSize="16sp"
         android:layout_margin="24dp"
         android:text="@string/static_fragment_text"

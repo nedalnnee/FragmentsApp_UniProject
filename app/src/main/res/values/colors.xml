@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary_light">#C8E6C9</color>
-    <color name="primary">#4CAF50</color>
-    <color name="primary_dark">#388E3C</color>
-    <color name="accent">#FF5722</color>
+    <color name="primary_light">#17a2b8</color>
+    <color name="primary">#0b465f</color>
+    <color name="primary_dark">#2c4755</color>
+    <color name="accent">#ffc107</color>
+    <color name="danger">#dc3545</color>
     <color name="secendry">#757575</color>
     <color name="devider">#BDBDBD</color>
     <color name="primary_text">#212121</color>
